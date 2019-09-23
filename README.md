@@ -1,6 +1,6 @@
-# Yapay Öğrenme Yaz Okulu Materyalleri
+# Veri Bilimi Yaz Okulu Materyalleri
 
-Veri Bilimi Yaz Okulu materyallerini içermektedir. (Machine Learning Summer School includes materials.)
+Veri Bilimi Yaz Okulu materyallerini içermektedir. (Data Science Summer School includes materials.)
 
 | No | Üniversite                                                        | Yıl  | Web Site                               |
 |----|-------------------------------------------------------------------|------|----------------------------------------|
