@@ -1,0 +1,241 @@
+Afghanistan Flag Icon 	Afghanistan 	Kabul 	34,53 	69,17	
+Albania Flag Icon 	Albania 	Tirana 	41,33 	19,82	
+Algeria Flag Icon 	Algeria 	Algiers 	36,75 	3,04	
+American Samoa Flag Icon 	American Samoa 	Pago Pago 	-14,28 	-170,70	
+Andorra Flag Icon 	Andorra 	Andorra la Vella 	42,51 	1,52	
+Angola Flag Icon 	Angola 	Luanda 	-8,84 	13,23	
+Anguilla Flag Icon 	Anguilla 	The Valley 	18,22 	-63,06	
+Antigua and Barbuda Flag Icon 	Antigua and Barbuda 	St. John's 	17,12 	-61,85	
+Argentina Flag Icon 	Argentina 	Buenos Aires 	-34,61 	-58,38	
+Armenia Flag Icon 	Armenia 	Yerevan 	40,18 	44,51	
+Aruba Flag Icon 	Aruba 	Oranjestad 	12,52 	-70,03	
+Australia Flag Icon 	Australia 	Canberra 	-35,28 	149,13	
+Austria Flag Icon 	Austria 	Vienna 	48,21 	16,37	
+Azerbaijan Flag Icon 	Azerbaijan 	Baku 	40,38 	49,89	
+Bahamas Flag Icon 	Bahamas 	Nassau 	25,06 	-77,34	
+Bahrain Flag Icon 	Bahrain 	Manama 	26,22 	50,58	
+Bangladesh Flag Icon 	Bangladesh 	Dhaka 	23,71 	90,41	
+Barbados Flag Icon 	Barbados 	Bridgetown 	13,10 	-59,62	
+Belarus Flag Icon 	Belarus 	Minsk 	53,90 	27,57	
+Belgium Flag Icon 	Belgium 	Brussels 	50,85 	4,35	
+Belize Flag Icon 	Belize 	Belmopan 	17,25 	-88,77	
+Benin Flag Icon 	Benin 	Porto-Novo 	6,50 	2,60	
+Bermuda Flag Icon 	Bermuda 	Hamilton 	32,29 	-64,78	
+Bhutan Flag Icon 	Bhutan 	Thimphu 	27,47 	89,64	
+Bolivia Flag Icon 	Bolivia 	Sucre 	-19,03 	-65,26	
+Bosnia and Herzegovina Flag Icon 	Bosnia and Herzegovina 	Sarajevo 	43,85 	18,36	
+Botswana Flag Icon 	Botswana 	Gaborone 	-24,65 	25,91	
+Brazil Flag Icon 	Brazil 	Brasília 	-15,78 	-47,93	
+British Indian Ocean Territory Flag Icon 	British Indian Ocean Territory 	Diego Garcia 	72,46 	7,24	
+British Virgin Islands Flag Icon 	British Virgin Islands 	Road Town 	18,42 	-64,62	
+Brunei Flag Icon 	Brunei 	Bandar Seri Begawan 	4,94 	114,95	
+Bulgaria Flag Icon 	Bulgaria 	Sofia 	42,70 	23,32	
+Burkina Faso Flag Icon 	Burkina Faso 	Ouagadougou 	12,37 	-1,53	
+Burundi Flag Icon 	Burundi 	Bujumbura 	-3,38 	29,36	
+Cambodia Flag Icon 	Cambodia 	Phnom Penh 	11,56 	104,92	
+Cameroon Flag Icon 	Cameroon 	Yaoundé 	3,87 	11,52	
+Canada Flag Icon 	Canada 	Ottawa 	45,41 	-75,70	
+Cape Verde Flag Icon 	Cape Verde 	Praia 	14,93 	-23,51	
+Cayman Islands Flag Icon 	Cayman Islands 	George Town 	19,29 	-81,37	
+Central African Republic Flag Icon 	Central African Republic 	Bangui 	4,36 	18,55	
+Chad Flag Icon 	Chad 	N'Djamena 	12,11 	15,04	
+Chile Flag Icon 	Chile 	Santiago 	-33,46 	-70,65	
+China Flag Icon 	China 	Beijing 	39,91 	116,40	
+Christmas Island Flag Icon 	Christmas Island 	The Settlement 	-10,42 	105,68	
+Cocos Islands Flag Icon 	Cocos Islands 	West Island 	-12,16 	96,82	
+Colombia Flag Icon 	Colombia 	Bogotá 	4,61 	-74,08	
+Comoros Flag Icon 	Comoros 	Moroni 	-11,70 	43,26	
+Cook Islands Flag Icon 	Cook Islands 	Avarua 	-21,21 	-159,78	
+Costa Rica Flag Icon 	Costa Rica 	San José 	9,93 	-84,08	
+Croatia Flag Icon 	Croatia 	Zagreb 	45,81 	15,98	
+Cuba Flag Icon 	Cuba 	Havana 	23,13 	-82,38	
+Cyprus Flag Icon 	Cyprus 	Nicosia 	35,17 	33,37	
+Czech Republic Flag Icon 	Czech Republic 	Prague 	50,09 	14,42	
+Democratic Republic of the Congo Flag Icon 	Democratic Republic of the Congo 	Kinshasa 	-4,32 	15,31	
+Denmark Flag Icon 	Denmark 	Copenhagen 	55,68 	12,57	
+Djibouti Flag Icon 	Djibouti 	Djibouti 	11,59 	43,15	
+Dominica Flag Icon 	Dominica 	Roseau 	15,30 	-61,39	
+Dominican Republic Flag Icon 	Dominican Republic 	Santo Domingo 	18,50 	-69,99	
+East Timor Flag Icon 	East Timor 	Dili 	-8,56 	125,57	
+Ecuador Flag Icon 	Ecuador 	Quito 	-0,23 	-78,52	
+Egypt Flag Icon 	Egypt 	Cairo 	30,06 	31,25	
+El Salvador Flag Icon 	El Salvador 	San Salvador 	13,69 	-89,19	
+Equatorial Guinea Flag Icon 	Equatorial Guinea 	Malabo 	3,75 	8,78	
+Eritrea Flag Icon 	Eritrea 	Asmara 	15,33 	38,93	
+Estonia Flag Icon 	Estonia 	Tallinn 	59,44 	24,75	
+Ethiopia Flag Icon 	Ethiopia 	Addis Ababa 	9,02 	38,75	
+Falkland Islands Flag Icon 	Falkland Islands 	Stanley 	-51,70 	-57,85	
+Faroe Islands Flag Icon 	Faroe Islands 	Tórshavn 	62,01 	-6,77	
+Fiji Flag Icon 	Fiji 	Suva 	-18,14 	178,44	
+Finland Flag Icon 	Finland 	Helsinki 	60,17 	24,94	
+France Flag Icon 	France 	Paris 	48,85 	2,35	
+French Guiana Flag Icon 	French Guiana 	Cayenne 	4,93 	-52,33	
+French Polynesia Flag Icon 	French Polynesia 	Papeete 	-17,53 	-149,57	
+Gabon Flag Icon 	Gabon 	Libreville 	0,39 	9,45	
+Gambia Flag Icon 	Gambia 	Banjul 	13,45 	-16,58	
+Georgia Flag Icon 	Georgia 	Tbilisi 	41,69 	44,83	
+Germany Flag Icon 	Germany 	Berlin 	52,52 	13,41	
+Ghana Flag Icon 	Ghana 	Accra 	5,56 	-0,20	
+Gibraltar Flag Icon 	Gibraltar 	Gibraltar 	36,14 	-5,35	
+Greece Flag Icon 	Greece 	Athens 	37,98 	23,72	
+Greenland Flag Icon 	Greenland 	Nuuk (Godthåb) 	64,18 	-51,72	
+Grenada Flag Icon 	Grenada 	St. George's 	12,06 	-61,75	
+Guadeloupe Flag Icon 	Guadeloupe 	Basse-Terre 	16,00 	-61,73	
+Guam Flag Icon 	Guam 	Hagåtña 	13,48 	144,75	
+Guatemala Flag Icon 	Guatemala 	New Guatemala 	14,64 	-90,51	
+Guernsey Flag Icon 	Guernsey 	St Peter Port 	49,46 	-2,54	
+Guinea Flag Icon 	Guinea 	Conakry 	9,54 	-13,68	
+Guinea-Bissau Flag Icon 	Guinea-Bissau 	Bissau 	11,86 	-15,60	
+Guyana Flag Icon 	Guyana 	Georgetown 	6,80 	-58,16	
+Haiti Flag Icon 	Haiti 	Port-au-Prince 	18,54 	-72,34	
+Honduras Flag Icon 	Honduras 	Tegucigalpa 	14,08 	-87,21	
+Hong Kong Flag Icon 	Hong Kong 	Hong Kong 	22,29 	114,16	
+Hungary Flag Icon 	Hungary 	Budapest 	47,50 	19,04	
+Iceland Flag Icon 	Iceland 	Reykjavík 	64,14 	-21,90	
+India Flag Icon 	India 	New Delhi 	28,64 	77,22	
+Indonesia Flag Icon 	Indonesia 	Jakarta 	-6,21 	106,85	
+Iran Flag Icon 	Iran 	Tehran 	35,69 	51,42	
+Iraq Flag Icon 	Iraq 	Baghdad 	33,34 	44,40	
+Ireland Flag Icon 	Ireland 	Dublin 	53,33 	-6,25	
+Isle of Man Flag Icon 	Isle of Man 	Douglas 	54,15 	-4,48	
+Israel Flag Icon 	Israel 	Jerusalem 	35,23 	31,77	
+Italy Flag Icon 	Italy 	Rome 	41,89 	12,48	
+Ivory Coast Flag Icon 	Ivory Coast 	Yamoussoukro 	6,82 	-5,28	
+Jamaica Flag Icon 	Jamaica 	Kingston 	18,00 	-76,79	
+Japan Flag Icon 	Japan 	Edo 	35,69 	139,69	
+Jersey Flag Icon 	Jersey 	Saint Helier 	49,19 	-2,10	
+Jordan Flag Icon 	Jordan 	Amman 	31,96 	35,95	
+Kazakhstan Flag Icon 	Kazakhstan 	Astana 	51,18 	71,45	
+Kenya Flag Icon 	Kenya 	Nairobi 	-1,28 	36,82	
+Kiribati Flag Icon 	Kiribati 	South Tarawa 	1,33 	172,98	
+Kosovo Flag Icon 	Kosovo 	Pristina 	42,67 	21,17	
+Kuwait Flag Icon 	Kuwait 	Kuwait City 	29,37 	47,98	
+Kyrgyzstan Flag Icon 	Kyrgyzstan 	Bishkek 	42,87 	74,59	
+Laos Flag Icon 	Laos 	Vientiane 	17,97 	102,60	
+Latvia Flag Icon 	Latvia 	Riga 	56,95 	24,11	
+Lebanon Flag Icon 	Lebanon 	Beirut 	33,89 	35,49	
+Lesotho Flag Icon 	Lesotho 	Maseru 	-29,32 	27,48	
+Liberia Flag Icon 	Liberia 	Monrovia 	6,30 	-10,80	
+Libya Flag Icon 	Libya 	Tripoli 	32,88 	13,19	
+Liechtenstein Flag Icon 	Liechtenstein 	Vaduz 	47,14 	9,52	
+Lithuania Flag Icon 	Lithuania 	Vilnius 	54,69 	25,28	
+Luxembourg Flag Icon 	Luxembourg 	Luxembourg 	49,61 	6,13	
+Macao Flag Icon 	Macao 	Macao 	22,20 	113,55	
+Macedonia Flag Icon 	Macedonia 	Skopje 	42,00 	21,43	
+Madagascar Flag Icon 	Madagascar 	Antananarivo 	-18,91 	47,54	
+Malawi Flag Icon 	Malawi 	Lilongwe 	-13,97 	33,79	
+Malaysia Flag Icon 	Malaysia 	Kuala Lumpur 	3,14 	101,69	
+Maldives Flag Icon 	Maldives 	Malé 	4,17 	73,51	
+Mali Flag Icon 	Mali 	Bamako 	12,65 	-8,00	
+Malta Flag Icon 	Malta 	Valletta 	35,90 	14,51	
+Marshall Islands Flag Icon 	Marshall Islands 	Majuro 	7,09 	171,38	
+Martinique Flag Icon 	Martinique 	Fort-de-France 	14,61 	-61,07	
+Mauritania Flag Icon 	Mauritania 	Nouakchott 	18,09 	-15,98	
+Mauritius Flag Icon 	Mauritius 	Port Louis 	-20,16 	57,50	
+Mayotte Flag Icon 	Mayotte 	Mamoutzou 	-12,78 	45,23	
+Mexico Flag Icon 	Mexico 	Mexico City 	19,43 	-99,13	
+Micronesia Flag Icon 	Micronesia 	Palikir 	6,92 	158,16	
+Moldova Flag Icon 	Moldova 	Chişinău 	47,01 	28,86	
+Monaco Flag Icon 	Monaco 	Monaco 	43,73 	7,42	
+Mongolia Flag Icon 	Mongolia 	Ulan Bator 	47,91 	106,88	
+Montenegro Flag Icon 	Montenegro 	Podgorica 	42,44 	19,26	
+Montserrat Flag Icon 	Montserrat 	Plymouth 	16,71 	-62,21	
+Morocco Flag Icon 	Morocco 	Rabat 	34,01 	-6,83	
+Mozambique Flag Icon 	Mozambique 	Maputo 	-25,97 	32,58	
+Myanmar Flag Icon 	Myanmar 	Nay Pyi Taw 	19,75 	96,13	
+Namibia Flag Icon 	Namibia 	Windhoek 	-22,56 	17,08	
+Nauru Flag Icon 	Nauru 	Yaren 	166,93 	-0,54	
+Nepal Flag Icon 	Nepal 	Kathmandu 	27,70 	85,32	
+Netherlands Flag Icon 	Netherlands 	Amsterdam 	52,37 	4,89	
+Netherlands Antilles Flag Icon 	Netherlands Antilles 	Willemstad 	-68,92 	12,10	
+New Caledonia Flag Icon 	New Caledonia 	Noumea 	-22,28 	166,46	
+New Zealand Flag Icon 	New Zealand 	Wellington 	-41,29 	174,78	
+Nicaragua Flag Icon 	Nicaragua 	Managua 	12,13 	-86,25	
+Niger Flag Icon 	Niger 	Niamey 	13,51 	2,11	
+Nigeria Flag Icon 	Nigeria 	Abuja 	9,07 	7,48	
+Niue Flag Icon 	Niue 	Alofi 	-19,06 	-169,92	
+Norfolk Island Flag Icon 	Norfolk Island 	Kingston 	-29,05 	167,97	
+North Korea Flag Icon 	North Korea 	Pyongyang 	39,03 	125,75	
+Northern Mariana Islands Flag Icon 	Northern Mariana Islands 	Saipan 	15,21 	145,75	
+Norway Flag Icon 	Norway 	Oslo 	59,91 	10,75	
+Oman Flag Icon 	Oman 	Muscat 	23,61 	58,59	
+Pakistan Flag Icon 	Pakistan 	Islamabad 	33,72 	73,04	
+Palau Flag Icon 	Palau 	Melekeok 	7,50 	134,62	
+Palestinian Territory Flag Icon 	Palestinian Territory 	East Jerusalem 	35,23 	31,77	
+Panama Flag Icon 	Panama 	Panama City 	8,99 	-79,52	
+Papua New Guinea Flag Icon 	Papua New Guinea 	Port Moresby 	-9,44 	147,18	
+Paraguay Flag Icon 	Paraguay 	Asunción 	-25,30 	-57,64	
+Peru Flag Icon 	Peru 	Lima 	-12,04 	-77,03	
+Philippines Flag Icon 	Philippines 	Manila 	14,60 	120,98	
+Pitcairn Flag Icon 	Pitcairn 	Adamstown 	-25,07 	-130,10	
+Poland Flag Icon 	Poland 	Warsaw 	52,23 	21,01	
+Portugal Flag Icon 	Portugal 	Lisbon 	38,72 	-9,13	
+Puerto Rico Flag Icon 	Puerto Rico 	San Juan 	18,47 	-66,11	
+Qatar Flag Icon 	Qatar 	Doha 	25,28 	51,52	
+Republic of the Congo Flag Icon 	Republic of the Congo 	Brazzaville 	-4,27 	15,28	
+Reunion Flag Icon 	Reunion 	Saint-Denis 	-20,88 	55,45	
+Romania Flag Icon 	Romania 	Bucharest 	44,43 	26,11	
+Russia Flag Icon 	Russia 	Moscow 	55,75 	37,62	
+Rwanda Flag Icon 	Rwanda 	Kigali 	-1,95 	30,06	
+Saint Barthélemy Flag Icon 	Saint Barthélemy 	Gustavia 	17,90 	-62,85	
+Saint Helena Flag Icon 	Saint Helena 	Jamestown 	-15,94 	-5,72	
+Saint Kitts and Nevis Flag Icon 	Saint Kitts and Nevis 	Basseterre 	17,29 	-62,73	
+Saint Lucia Flag Icon 	Saint Lucia 	Castries 	14,00 	-61,01	
+Saint Martin Flag Icon 	Saint Martin 	Marigot 	18,07 	-63,08	
+Saint Pierre and Miquelon Flag Icon 	Saint Pierre and Miquelon 	Saint-Pierre 	46,78 	-56,17	
+Saint Vincent and the Grenadines Flag Icon 	Saint Vincent and the Grenadines 	Kingstown 	13,16 	-61,22	
+Samoa Flag Icon 	Samoa 	Apia 	-13,83 	-171,77	
+San Marino Flag Icon 	San Marino 	San Marino 	43,94 	12,45	
+Sao Tome and Principe Flag Icon 	Sao Tome and Principe 	São Tomé 	0,34 	6,73	
+Saudi Arabia Flag Icon 	Saudi Arabia 	Riyadh 	24,69 	46,72	
+Senegal Flag Icon 	Senegal 	Dakar 	14,69 	-17,44	
+Serbia Flag Icon 	Serbia 	Belgrade 	44,80 	20,47	
+Seychelles Flag Icon 	Seychelles 	Victoria 	-4,62 	55,45	
+Sierra Leone Flag Icon 	Sierra Leone 	Freetown 	8,48 	-13,23	
+Singapore Flag Icon 	Singapore 	Singapore 	1,29 	103,85	
+Slovakia Flag Icon 	Slovakia 	Bratislava 	48,15 	17,11	
+Slovenia Flag Icon 	Slovenia 	Ljubljana 	46,05 	14,51	
+Solomon Islands Flag Icon 	Solomon Islands 	Honiara 	-9,43 	159,95	
+Somalia Flag Icon 	Somalia 	Mogadishu 	2,04 	45,34	
+South Africa Flag Icon 	South Africa 	Pretoria 	-25,74 	28,19	
+South Georgia and the South Sandwich Islands Flag Icon 	South Georgia and the South Sandwich Islands 	Grytviken 	-54,28 	-36,51	
+South Korea Flag Icon 	South Korea 	Seoul 	37,57 	126,98	
+Spain Flag Icon 	Spain 	Madrid 	40,42 	-3,70	
+Sri Lanka Flag Icon 	Sri Lanka 	Colombo 	6,93 	79,85	
+Sudan Flag Icon 	Sudan 	Khartoum 	15,55 	32,53	
+Suriname Flag Icon 	Suriname 	Paramaribo 	5,87 	-55,17	
+Svalbard and Jan Mayen Flag Icon 	Svalbard and Jan Mayen 	Longyearbyen 	78,22 	15,64	
+Swaziland Flag Icon 	Swaziland 	Mbabane 	-26,32 	31,13	
+Sweden Flag Icon 	Sweden 	Stockholm 	59,33 	18,06	
+Switzerland Flag Icon 	Switzerland 	Berne 	46,95 	7,45	
+Syria Flag Icon 	Syria 	Damascus 	33,51 	36,29	
+Taiwan Flag Icon 	Taiwan 	Taipei 	25,05 	121,53	
+Tajikistan Flag Icon 	Tajikistan 	Dushanbe 	38,54 	68,78	
+Tanzania Flag Icon 	Tanzania 	Dodoma 	-6,17 	35,74	
+Thailand Flag Icon 	Thailand 	Bangkok 	13,75 	100,50	
+Togo Flag Icon 	Togo 	Lomé 	6,14 	1,21	
+Tokelau Flag Icon 	Tokelau 	Nukunonu 	-171,85 	-9,20	
+Tonga Flag Icon 	Tonga 	Nuku'alofa 	-21,13 	-175,20	
+Trinidad and Tobago Flag Icon 	Trinidad and Tobago 	Port of Spain 	10,67 	-61,52	
+Tunisia Flag Icon 	Tunisia 	Tunis 	36,82 	10,17	
+Turkey Flag Icon 	Turkey 	Ankara 	39,92 	32,85	
+Turkmenistan Flag Icon 	Turkmenistan 	Ashkhabad 	37,95 	58,38	
+Turks and Caicos Islands Flag Icon 	Turks and Caicos Islands 	Cockburn Town 	21,46 	-71,14	
+Tuvalu Flag Icon 	Tuvalu 	Funafuti 	-8,52 	179,19	
+U.S. Virgin Islands Flag Icon 	U.S. Virgin Islands 	Charlotte Amalie 	18,34 	-64,93	
+Uganda Flag Icon 	Uganda 	Kampala 	0,32 	32,58	
+Ukraine Flag Icon 	Ukraine 	Kiev 	50,45 	30,52	
+United Arab Emirates Flag Icon 	United Arab Emirates 	Abu Dhabi 	24,47 	54,37	
+United Kingdom Flag Icon 	United Kingdom 	London 	51,51 	-0,13	
+United States Flag Icon 	United States 	Washington 	38,90 	-77,04	
+Uruguay Flag Icon 	Uruguay 	Montevideo 	-34,83 	-56,17	
+Uzbekistan Flag Icon 	Uzbekistan 	Tashkent 	41,26 	69,22	
+Vanuatu Flag Icon 	Vanuatu 	Port Vila 	-17,73 	168,32	
+Vatican Flag Icon 	Vatican 	Vatican 	41,90 	12,45	
+Venezuela Flag Icon 	Venezuela 	Caracas 	10,49 	-66,88	
+Vietnam Flag Icon 	Vietnam 	Hanoi 	21,02 	105,84	
+Wallis and Futuna Flag Icon 	Wallis and Futuna 	Mata-Utu 	-13,28 	-176,17	
+Western Sahara Flag Icon 	Western Sahara 	El Aaiún 	27,16 	-13,20	
+Yemen Flag Icon 	Yemen 	Sanaa 	15,35 	44,21	
+Zambia Flag Icon 	Zambia 	Lusaka 	-15,41 	28,29	
+Zimbabwe Flag Icon 	Zimbabwe 	Harare 	-17,83 	31,05
