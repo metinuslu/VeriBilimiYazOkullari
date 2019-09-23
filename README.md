@@ -6,6 +6,5 @@ Veri Bilimi Yaz Okulu materyallerini içermektedir. (Machine Learning Summer Sch
 |----|-------------------------------------------------------------------|------|----------------------------------------|
 | 1  | Nesin Matematik Köyü "Veri Bilim - Yapay Öğrenme Yaz Okulu" | 2017 | []()         |
 | 2  | Boğaziçi Üniversitesi "Veri Bilim - Yapay Öğrenme Yaz Okulu" | 2018 | []() |
-| 3  | Sabancı Üniversitesi 3. Veri Bilimi Yaz Okulu" | 2019 | [https://sites.google.com/sabanciuniv.edu/vbyo2019](https://sites.google.com/sabanciuniv.edu/vbyo2019)         |
-|
+| 3  | Sabancı Üniversitesi 3. Veri Bilimi Yaz Okulu" | 2019 | [https://sites.google.com/sabanciuniv.edu/vbyo2019](https://sites.google.com/sabanciuniv.edu/vbyo2019)|
 
